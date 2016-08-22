@@ -14,7 +14,7 @@ bower install bootstrap
 
 ## Authors
 
-* **Bernard Lee** - *Initial work* - [PurpleBooth](https://github.com/leepunlap)
+* **Bernard Lee** - *Initial work* - [leepunlap](https://github.com/leepunlap)
 
 ## License
 
